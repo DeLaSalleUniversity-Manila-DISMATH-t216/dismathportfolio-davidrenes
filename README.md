@@ -126,7 +126,7 @@ DISMATH-EL Portfolio
 <h3>Planar and Non-Planar graphs</h3>
 <p>&nbsp&nbspPlanar graphs are graphs wherein no edge is allowed to intersect with another, this can be achived by finding a seemingly non-planar graphs's isomorphic equivalent which is planar in nature.</p>
 <p>&nbsp&nbspKurotowski's Theorem is basically that K(3,3), K(5) and graphs beyon those are non-planar graphs.</p>
-<h3><b>WEEK 13:</b></h3>
+<h1><b>WEEK 13:</b></h1>
 <p>We learned about trees, graph coloring, and automata theoy.<p>
 <h3>Graph Coloring</h3>
 <p>&nbsp&nbspThis is basically assigning a certain color to a vertex and vertices that are adjacent to this vertex have to have different colors from that certain vertex</p>
