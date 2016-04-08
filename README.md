@@ -90,4 +90,19 @@ DISMATH-EL Portfolio
 <p>&nbsp&nbspWe learned also about domain, codomain, and range.</p>
 <h1><b>WEEK 7:</b></h1>
 <h3>No Classes</h3>
-<h1><b>WEEK 8:</h1>
+<h1><b>WEEK 8:</b></h1>
+<p>This week we were mainly introduced to algorithms</p>
+<h3>Algorithm</h3>
+<p>&nbsp&nbspWe were also introduced to Pseudocodes wherein it is a sort of a simpler programming language.</p>
+<p>&nbsp&nbspWe were also taught how to search for algorithms.</p>
+<h1><b>WEEK 9:</b></h1>
+<p>&nbsp&nbspWe were introduced to different sorts of algorithms</p>
+<p><b>Bubble Sort</b></p>
+<p>&nbsp&nbspSorts elements in order by adjacent elements.</p>
+<p><b>Insertion Sort</b></p>
+<p>&nbsp&nbspSorts elements in a more simple way.</p>
+<p><b>Greedy Algorithm</b></p>
+<p>&nbsp&nbspMaximizes or minimizes parameters and is used ing optimization problems.</p>
+<h1><b>WEEK 10:</b></h1>
+<p>We learned about growth of functions, algorithm time complexity, division and modulo operator, and cryptography.</p>
+<p>
