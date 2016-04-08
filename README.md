@@ -105,4 +105,19 @@ DISMATH-EL Portfolio
 <p>&nbsp&nbspMaximizes or minimizes parameters and is used ing optimization problems.</p>
 <h1><b>WEEK 10:</b></h1>
 <p>We learned about growth of functions, algorithm time complexity, division and modulo operator, and cryptography.</p>
-<p>
+<p><b>Cryptography</b></p>
+<p>&nbsp&nbspWe learned about the meathod Julius Caesar invented, Caesar Cipher</p>
+<h1><b>WEEK 11:</b></h1>
+<p>We learned about graph theory, euler circuit, hamilton circuit, matrices, isomorphism, and kurotowski's theorem.</p>
+<h3>Graph Theory</h3>
+<p>&nbsp&nbspWe were introduced to the graph and it's parts mainly the vertices, degrees, and the edges.</p>
+<p>&nbsp&nbspWe were also introduced to the handshake theorem which is a formula to obtain a value for the number of edges provided that the value of the vertices and degrees are given.</p>
+<h3>Euler Circuit/Path</h3>
+<p>&nbsp&nbspA Euler circuit represents a graph that pases through all edges without repition and returns to the starting point.</p>
+<p>&nbsp&nbspA Euler path represents a graph that passes through all edges without repition and does not return to the starting point. It has exactly 2 vertices which have odd degrees.</p>
+<h3>Hamilton Circuit/Path</h3>
+<p>&nbsp&nbspA Hamilton circuit passes through all vertices without repition and returns to the starting point.</p>
+<p>&nbsp&nbspA Hamilton path passes through all vertices without repition and does not return to the starting point.</p>
+<h3>Isomorphism</h3>
+<p>&nbsp&nbspIn the long run, it is basically a remodelled version of a certain graph wherein each vertex and degree are connected to the same vertex or degree they were connected to from the start</p>
+<h3>Planar and Non-Planar graphs</h3>
