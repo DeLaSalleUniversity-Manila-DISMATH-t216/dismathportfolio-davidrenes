@@ -1,5 +1,6 @@
 # dismathportfolio-davidrenes
 DISMATH-EL Portfolio
+<h1>RENES, David Randall T. - My Weekly Portfolio - DISMATH Section EL</h1>
 <h1><b>WEEK 1:</b></h1>
 <p><b>We were introduced to a new course called Discrete Mathematics, DISMATH for short.</b></p>
 <h3><b>What is Proof?</b></h3>
@@ -108,6 +109,8 @@ DISMATH-EL Portfolio
 <p><b>Cryptography</b></p>
 <p>&nbsp&nbspWe learned about the meathod Julius Caesar invented, Caesar Cipher</p>
 <h1><b>WEEK 11:</b></h1>
+<p>No classes</p>
+<h1><b>WEEK 12:</b></h1>
 <p>We learned about graph theory, euler circuit, hamilton circuit, matrices, isomorphism, and kurotowski's theorem.</p>
 <h3>Graph Theory</h3>
 <p>&nbsp&nbspWe were introduced to the graph and it's parts mainly the vertices, degrees, and the edges.</p>
@@ -121,3 +124,15 @@ DISMATH-EL Portfolio
 <h3>Isomorphism</h3>
 <p>&nbsp&nbspIn the long run, it is basically a remodelled version of a certain graph wherein each vertex and degree are connected to the same vertex or degree they were connected to from the start</p>
 <h3>Planar and Non-Planar graphs</h3>
+<p>&nbsp&nbspPlanar graphs are graphs wherein no edge is allowed to intersect with another, this can be achived by finding a seemingly non-planar graphs's isomorphic equivalent which is planar in nature.</p>
+<p>&nbsp&nbspKurotowski's Theorem is basically that K(3,3), K(5) and graphs beyon those are non-planar graphs.</p>
+<h3><b>WEEK 13:</b></h3>
+<p>We learned about trees, graph coloring, and automata theoy.<p>
+<h3>Graph Coloring</h3>
+<p>&nbsp&nbspThis is basically assigning a certain color to a vertex and vertices that are adjacent to this vertex have to have different colors from that certain vertex</p>
+<p>&nbsp&nbspThe Chromatic number is the number of colors used in graph coloring</p>
+<h3>Trees</h3>
+<p>&nbsp&nbspThis is basically a graph where the root vertex is specified and it has children vertices below it</p>
+<p>&nbsp&nbspThe order wherein the children of a certain parent are positioned in such a way that the greater ones are at the right and the lesser ones are on the left</p>
+<h3>Automata Theory</h3>
+<p>&nbsp&nbspWe learned that the automata theory is a study on the laws of computation and we were also introduced to the finite-state machine.</p>
