@@ -72,3 +72,18 @@ DISMATH-EL Portfolio
 <h3><b>Mathematical Induction</b></h3>
 <p>&nbsp&nbsp(1)Basis Step: p(1) is shown to be true.</p>
 <p>&nbsp&nbsp(2)Inductive Step. (Show)</p>
+<h1><b>WEEK 5:</b></h1>
+<p><b>We were introduced to Recursive Algorithms, Program Correctness, Hoare Triple, Power Series, and Set Theory.</b><p>
+<h3><b>Recursive Algorithm</b></h3>
+<p>&nbsp&nbspSolves a problem by reducing it to a smaller yet identical problem</p>
+<h3><b>Program Correctness</b></h3>
+<p>&nbsp&nbspProblems involving program correctness are solved using 2 ways mainly showing that the program terminates and by partial correctness</p>
+<h3>Hoare Triple</h3>
+<p>p{s}q, where s is the program segment</p>
+<h3>Power Series</h3>
+<p>&nbsp&nbspWe were mainly taught what power series is and how to represent different functions as a power series</p>
+<h3>Set Theory</h3>
+<p>&nbsp&nbspWe were introduced to Sets and Set Builder Notations</p>
+<h1><b>WEEK 6:</b></h1>
+<p>We were
+<h3>Functions</h3>
