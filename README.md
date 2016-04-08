@@ -85,5 +85,9 @@ DISMATH-EL Portfolio
 <h3>Set Theory</h3>
 <p>&nbsp&nbspWe were introduced to Sets and Set Builder Notations</p>
 <h1><b>WEEK 6:</b></h1>
-<p>We were
+<p>We were introduced to functions</p>
 <h3>Functions</h3>
+<p>&nbsp&nbspWe learned also about domain, codomain, and range.</p>
+<h1><b>WEEK 7:</b></h1>
+<h3>No Classes</h3>
+<h1><b>WEEK 8:</h1>
